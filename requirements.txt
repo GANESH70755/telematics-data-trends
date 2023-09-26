@@ -8,3 +8,5 @@ SQLAlchemy==1.4.47
 snowflake-sqlalchemy==1.4.7
 pyarrow==10.0.1
 pmdarima==2.0.3s
+snowflake==0.0.3
+snowflake_snowpark_python==1.5.1
