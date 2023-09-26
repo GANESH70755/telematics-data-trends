@@ -10,4 +10,4 @@ pyarrow==10.0.1
 snowflake==0.0.3
 snowflake-snowpark-python==1.5.1
 snowflake-connector-python==3.2.0
-streamlit-autorefresh==0.2.0
+streamlit-autorefresh
