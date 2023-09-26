@@ -7,6 +7,4 @@ python-dotenv==1.0.0
 SQLAlchemy==1.4.47
 snowflake-sqlalchemy==1.4.7
 pyarrow==10.0.1
-scikit-learn
-pmdarima
-matplotlib
+pmdarima==2.0.3s
