@@ -1,7 +1,3 @@
-Here’s a README template based on your streamlit_app.py and the context of the repo:
-
----
-
 # Telematics Data Trends
 This project provides a Streamlit dashboard for visualizing and monitoring vehicle telematics data trends across Bronze, Silver, and Gold tables in Snowflake. It connects to Snowflake, queries telematics records, and displays interactive time-series charts for data counts and trends.
 
